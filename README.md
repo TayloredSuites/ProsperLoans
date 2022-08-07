@@ -9,21 +9,21 @@ The data set consists of a data set from Prosper Loans and carries and index of 
     
  This project aims to assess a dataset and derive insights from it. There are 2 parts to it:
     
-    1. The exploratory data analysis: This exploration does not exclude the usual data wrangling and clean up, but its most important goal is to derive no less than 15 insights through visualizations from a dataset without being given any prior areas to look out for. It can be considered a test of skill and understanding of data visualization methods and practices.
+1. The exploratory data analysis: This exploration does not exclude the usual data wrangling and clean up, but its most important goal is to derive no less than 15 insights through visualizations from a dataset without being given any prior areas to look out for. It can be considered a test of skill and understanding of data visualization methods and practices.
     
-    2. The explanatory data analysis: This exploration digs deeper into the exploratory analysis if need be, but it is in this analysis that the key findings of the exploration are reported in a way that is comprehensive and purposeful. Additionally, I prepared a slide show to communicate the findings.
+2. The explanatory data analysis: This exploration digs deeper into the exploratory analysis if need be, but it is in this analysis that the key findings of the exploration are reported in a way that is comprehensive and purposeful. Additionally, I prepared a slide show to communicate the findings.
     
 - ## <font color = 'teal'>Relevant and required software
     
 The analysis was done with software that emphasized speed and ease of use. I used:
     
-    1. Anaconda - This is a package manager that links data analysis packages and libraries seamlessly
-    2. Jupyter Notebook
-    3. Matplotlib
-    4. Pandas
-    5. Seaborn
-    6. Python
-    7. Jupyer Notebook
+1. Anaconda - This is a package manager that links data analysis packages and libraries seamlessly
+2. Jupyter Notebook
+3. Matplotlib
+4. Pandas
+5. Seaborn
+6. Python
+7. Jupyer Notebook
     
 - ## <font color = 'teal'>Summary of Findings
 
@@ -40,11 +40,11 @@ Surprisingly, those who seemed to need a loan for things like cosmetic proceedur
 
 - ## <font color = 'teal'>Key Insights for Presentation
 
-For the presentation, I touched on the questions I wanted to ask most and put them out in different ways in order to show the features with the most correlation that had an actual effect on income and loan term.
+For the presentation, I touched on the questions I wanted to ask most and put them out in different ways in order to show the features with the most correlation that had an actual effect on income and loan term. I looked at the BorrowerAPI, CreditScoreRangeLower and the OriginalLoanAmount.
 
-I introduced my findings by category of plot (i.e. bivariate and multivariate) because that is where the variables began to have more meaning. I then showed the findings for each of these then moved on to another one, in order to create more rounded findings.
+I introduced my findings by category of plot (i.e. bivariate and multivariate) because that is where the variables began to have more meaning. I then showed the findings for each of these variable findings then moved on to another one, in order to create more rounded findings.
     
 - ## <font color = 'teal'>Acknowledgements and credits
  
     
-It goes without saying that the pandas, matplotlib and Python docs are the kings of any coding done. A shout out to the wonderful platform Stack Overflow without which ones questions would largely be left unsolvable.
+It goes without saying that the pandas, matplotlib and Python docs are the kings of any coding done here. A shout out to the wonderful platform Stack Overflow without which ones questions would largely be left unsolvable.
