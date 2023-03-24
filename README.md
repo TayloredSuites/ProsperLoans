@@ -42,7 +42,7 @@ Surprisingly, those who seemed to need a loan for things like cosmetic proceedur
 
 For the presentation, I touched on the questions I wanted to ask most and put them out in different ways in order to show the features with the most correlation that had an actual effect on income and loan term. I looked at the BorrowerAPI, CreditScoreRangeLower and the OriginalLoanAmount.
 
-I introduced my findings by category of plot (i.e. bivariate and multivariate) because that is where the variables began to have more meaning. I then showed the findings for each of these variable findings then moved on to another one, in order to create more rounded findings.
+I introduced my findings by category of plot (i.e. bivariate and multivariate) because that is where the variables began to have more meaning. I then showed the findings for each of these findings then moved on to another one, in order to create more rounded observations.
     
 - ## <font color = 'teal'>Acknowledgements and credits
  
