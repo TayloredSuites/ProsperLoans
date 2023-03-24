@@ -3,7 +3,7 @@
 
 - ## <font color = 'teal'>Dataset
 
-The data set consists of a data set from Prosper Loans and carries and index of around 114, 000 anonymous borrowers and 81 details of their interaction with the loan company.The data contains general information about the borrowers loan, and in-house Prosper ratings to corroborate their findings on each borrower. The dataset is found attached in the files. Prosper Loan Data - Variable Definitions.xlsx while the link to download the csv is https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv
+The data set consists of a data set from Prosper Loans and carries and index of around 114, 000 anonymous borrowers and 81 details of their interaction with the loan company.The data contains general information about the borrowers loan, and in-house Prosper ratings to corroborate their findings on each borrower. The dataset is found attached in the files. Prosper Loan Data - Variable Definitions.xlsx while the link to download the csv is [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv)
 
 - ## <font color = 'teal'>General description of the project
     
@@ -27,13 +27,13 @@ The analysis was done with software that emphasized speed and ease of use. I use
     
 - ## <font color = 'teal'>Summary of Findings
 
-In the exploration, I found relationships between the APR and DTI of most of the features I wanted to explore. I also uncovered the relationship between credit score, and the loan and APR. The credit score was the major determinant of APR, as higher credit scores got lower APR and access to larger loans irregardless of the borrowers debt to income ratio.
+In the exploration, I found relationships between the APR and DTI of most of the features I wanted to explore. I also uncovered the relationship between credit score, and the loan and APR. The credit score was the major determinant of APR, as higher credit scores got lower APR and access to larger loans irregardless of the borrowers debt-to-income ratio.
     
-I also observed the relationship between the loan term and the amount of loan, and the delinquent amount of borrowers. The longer the loan term, the more money was given in the loan, while the less money was given, the more delinquent the accounts of the borrower.
+I also observed the relationship between the loan term and the amount of the loan, and the delinquent amount of borrowers. The longer the loan term, the more money was given in the loan; meanwhile the less the money that was loaned, the more delinquent the account of the borrower.
 
-Employment status was a good tell of what the DTI would like, as unemplyed people had the highest debt to income ratio though they were recipients of loans.
+Employment status was a good tell of what the DTI ratio would be like, as unemplyed people had the highest debt-to-income ratio though they were recipients of loans to a relatively similar degree as the employed.
     
-The most common loan term was the 36 month term, and it was used for all credit ratings. Those with higher income and credit scores were offered the shortest loan of 12 months.
+The most common loan term was the 36 month term, and it was used across all credit ratings. Those with higher income and credit scores were offered the shortest loan of 12 months.
 
 Surprisingly, those who seemed to need a loan for things like cosmetic proceedures turned out to have high credit scores and the lowest debt to income ratio, whileborrowers who needed loans for things like education turned out to be quite delinquent and were the least likely to receive loans.
 
